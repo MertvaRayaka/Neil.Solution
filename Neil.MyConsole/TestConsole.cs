@@ -1,14 +1,12 @@
-﻿using System;
+﻿using Neil.BLL;
+using Neil.Container;
+using Neil.DAL;
 using Neil.IBLL;
 using Neil.IDAL;
-using Neil.BLL;
-using Neil.DAL;
 using Neil.IService;
-using Neil.Container;
-using System.Threading.Tasks;
+using System;
 using System.Collections.Generic;
-using System.Security.Cryptography;
-using System.Windows;
+using System.Threading.Tasks;
 
 namespace Neil.MyConsole
 {
@@ -16,9 +14,7 @@ namespace Neil.MyConsole
     {
         static List<Func<Task>> FuncList = new List<Func<Task>>();
         static void Main(string[] args)
-        {
-            
-
+        { 
             INeilContainer container = new NeilContainer();
             container.Register<IUserBLL, UserBLL>();
             container.Register<IUserDAL, UserDAL>();
@@ -37,9 +33,9 @@ namespace Neil.MyConsole
             AddFunc(userBLL.Running);
             AddFunc(userBLLV2.Running);
 
-            Task.Run(async()=>
+            Task.Run(async () =>
             {
-                while (FuncList.Count>0)
+                while (FuncList.Count > 0)
                 {
                     foreach (var func in FuncList)
                     {
@@ -55,7 +51,7 @@ namespace Neil.MyConsole
 
         public static void AddFunc(Func<Task> action)
         {
-            lock(action)
+            lock (action)
                 FuncList.Add(action);
         }
 

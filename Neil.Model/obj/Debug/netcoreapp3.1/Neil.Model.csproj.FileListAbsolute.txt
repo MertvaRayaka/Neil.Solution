@@ -1,0 +1,8 @@
+G:\Neil.Solution\Neil.Model\bin\Debug\netcoreapp3.1\Neil.Model.deps.json
+G:\Neil.Solution\Neil.Model\bin\Debug\netcoreapp3.1\Neil.Model.dll
+G:\Neil.Solution\Neil.Model\bin\Debug\netcoreapp3.1\Neil.Model.pdb
+G:\Neil.Solution\Neil.Model\obj\Debug\netcoreapp3.1\Neil.Model.AssemblyInfoInputs.cache
+G:\Neil.Solution\Neil.Model\obj\Debug\netcoreapp3.1\Neil.Model.AssemblyInfo.cs
+G:\Neil.Solution\Neil.Model\obj\Debug\netcoreapp3.1\Neil.Model.csproj.CoreCompileInputs.cache
+G:\Neil.Solution\Neil.Model\obj\Debug\netcoreapp3.1\Neil.Model.dll
+G:\Neil.Solution\Neil.Model\obj\Debug\netcoreapp3.1\Neil.Model.pdb

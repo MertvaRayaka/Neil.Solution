@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Neil.IBLL/1.0.0": {
+        "dependencies": {
+          "Neil.IDAL": "1.0.0"
+        },
+        "runtime": {
+          "Neil.IBLL.dll": {}
+        }
+      },
+      "Neil.Container/1.0.0": {
+        "runtime": {
+          "Neil.Container.dll": {}
+        }
+      },
+      "Neil.IDAL/1.0.0": {
+        "dependencies": {
+          "Neil.IService": "1.0.0",
+          "Neil.Model": "1.0.0"
+        },
+        "runtime": {
+          "Neil.IDAL.dll": {}
+        }
+      },
+      "Neil.IService/1.0.0": {
+        "dependencies": {
+          "Neil.Container": "1.0.0"
+        },
+        "runtime": {
+          "Neil.IService.dll": {}
+        }
+      },
+      "Neil.Model/1.0.0": {
+        "runtime": {
+          "Neil.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neil.IBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Neil.Container/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Neil.IDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Neil.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Neil.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

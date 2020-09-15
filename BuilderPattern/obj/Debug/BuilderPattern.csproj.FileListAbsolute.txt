@@ -1,0 +1,10 @@
+G:\Neil.Solution\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+G:\Neil.Solution\BuilderPattern\bin\Debug\BuilderPattern.exe
+G:\Neil.Solution\BuilderPattern\bin\Debug\BuilderPattern.pdb
+G:\Neil.Solution\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+G:\Neil.Solution\BuilderPattern\obj\Debug\BuilderPattern.exe
+G:\Neil.Solution\BuilderPattern\obj\Debug\BuilderPattern.pdb
+G:\Neil.Solution\BuilderPattern\bin\Debug\appsettings.json
+G:\Neil.Solution\BuilderPattern\bin\Debug\Newtonsoft.Json.dll
+G:\Neil.Solution\BuilderPattern\bin\Debug\Newtonsoft.Json.xml
+G:\Neil.Solution\BuilderPattern\obj\Debug\BuilderPattern.csproj.CopyComplete

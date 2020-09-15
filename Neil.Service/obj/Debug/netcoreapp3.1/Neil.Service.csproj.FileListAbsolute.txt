@@ -1,0 +1,14 @@
+G:\Neil.Solution\Neil.Service\bin\Debug\netcoreapp3.1\Neil.Service.deps.json
+G:\Neil.Solution\Neil.Service\bin\Debug\netcoreapp3.1\Neil.Service.dll
+G:\Neil.Solution\Neil.Service\bin\Debug\netcoreapp3.1\Neil.Service.pdb
+G:\Neil.Solution\Neil.Service\bin\Debug\netcoreapp3.1\Neil.Container.dll
+G:\Neil.Solution\Neil.Service\bin\Debug\netcoreapp3.1\Neil.IService.dll
+G:\Neil.Solution\Neil.Service\bin\Debug\netcoreapp3.1\Neil.IService.pdb
+G:\Neil.Solution\Neil.Service\bin\Debug\netcoreapp3.1\Neil.Container.pdb
+G:\Neil.Solution\Neil.Service\obj\Debug\netcoreapp3.1\Neil.Service.csprojAssemblyReference.cache
+G:\Neil.Solution\Neil.Service\obj\Debug\netcoreapp3.1\Neil.Service.AssemblyInfoInputs.cache
+G:\Neil.Solution\Neil.Service\obj\Debug\netcoreapp3.1\Neil.Service.AssemblyInfo.cs
+G:\Neil.Solution\Neil.Service\obj\Debug\netcoreapp3.1\Neil.Service.csproj.CoreCompileInputs.cache
+G:\Neil.Solution\Neil.Service\obj\Debug\netcoreapp3.1\Neil.Service.csproj.CopyComplete
+G:\Neil.Solution\Neil.Service\obj\Debug\netcoreapp3.1\Neil.Service.dll
+G:\Neil.Solution\Neil.Service\obj\Debug\netcoreapp3.1\Neil.Service.pdb

@@ -1,0 +1,228 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Neil.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Neil.IBLL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Neil.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.BLL.dll": {}
+        }
+      },
+      "Neil.Container/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Neil.Container.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.Container.dll": {}
+        }
+      },
+      "Neil.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Neil.IDAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Neil.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.DAL.dll": {}
+        }
+      },
+      "Neil.IBLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Neil.IDAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Neil.IBLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.IBLL.dll": {}
+        }
+      },
+      "Neil.IDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Neil.IService": "1.0.0",
+          "Neil.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Neil.IDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.IDAL.dll": {}
+        }
+      },
+      "Neil.IService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Neil.Container": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Neil.IService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.IService.dll": {}
+        }
+      },
+      "Neil.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Neil.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.Model.dll": {}
+        }
+      },
+      "Neil.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Neil.IService": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Neil.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Neil.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neil.BLL/1.0.0": {
+      "type": "project",
+      "path": "../Neil.BLL/Neil.BLL.csproj",
+      "msbuildProject": "../Neil.BLL/Neil.BLL.csproj"
+    },
+    "Neil.Container/1.0.0": {
+      "type": "project",
+      "path": "../Neil.Container/Neil.Container.csproj",
+      "msbuildProject": "../Neil.Container/Neil.Container.csproj"
+    },
+    "Neil.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Neil.DAL/Neil.DAL.csproj",
+      "msbuildProject": "../Neil.DAL/Neil.DAL.csproj"
+    },
+    "Neil.IBLL/1.0.0": {
+      "type": "project",
+      "path": "../Neil.IBLL/Neil.IBLL.csproj",
+      "msbuildProject": "../Neil.IBLL/Neil.IBLL.csproj"
+    },
+    "Neil.IDAL/1.0.0": {
+      "type": "project",
+      "path": "../Neil.IDAL/Neil.IDAL.csproj",
+      "msbuildProject": "../Neil.IDAL/Neil.IDAL.csproj"
+    },
+    "Neil.IService/1.0.0": {
+      "type": "project",
+      "path": "../Neil.IService/Neil.IService.csproj",
+      "msbuildProject": "../Neil.IService/Neil.IService.csproj"
+    },
+    "Neil.Model/1.0.0": {
+      "type": "project",
+      "path": "../Neil.Model/Neil.Model.csproj",
+      "msbuildProject": "../Neil.Model/Neil.Model.csproj"
+    },
+    "Neil.Service/1.0.0": {
+      "type": "project",
+      "path": "../Neil.Service/Neil.Service.csproj",
+      "msbuildProject": "../Neil.Service/Neil.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Neil.BLL >= 1.0.0",
+      "Neil.DAL >= 1.0.0",
+      "Neil.IBLL >= 1.0.0",
+      "Neil.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\neil.zhu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Neil.Solution\\Neil.MyConsole\\Neil.MyConsole.csproj",
+      "projectName": "Neil.MyConsole",
+      "projectPath": "G:\\Neil.Solution\\Neil.MyConsole\\Neil.MyConsole.csproj",
+      "packagesPath": "C:\\Users\\neil.zhu\\.nuget\\packages\\",
+      "outputPath": "G:\\Neil.Solution\\Neil.MyConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\neil.zhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "G:\\Neil.Solution\\Neil.BLL\\Neil.BLL.csproj": {
+              "projectPath": "G:\\Neil.Solution\\Neil.BLL\\Neil.BLL.csproj"
+            },
+            "G:\\Neil.Solution\\Neil.DAL\\Neil.DAL.csproj": {
+              "projectPath": "G:\\Neil.Solution\\Neil.DAL\\Neil.DAL.csproj"
+            },
+            "G:\\Neil.Solution\\Neil.IBLL\\Neil.IBLL.csproj": {
+              "projectPath": "G:\\Neil.Solution\\Neil.IBLL\\Neil.IBLL.csproj"
+            },
+            "G:\\Neil.Solution\\Neil.Service\\Neil.Service.csproj": {
+              "projectPath": "G:\\Neil.Solution\\Neil.Service\\Neil.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

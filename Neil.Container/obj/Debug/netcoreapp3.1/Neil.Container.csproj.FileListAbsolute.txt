@@ -1,0 +1,8 @@
+G:\Neil.Solution\Neil.Container\bin\Debug\netcoreapp3.1\Neil.Container.deps.json
+G:\Neil.Solution\Neil.Container\bin\Debug\netcoreapp3.1\Neil.Container.dll
+G:\Neil.Solution\Neil.Container\bin\Debug\netcoreapp3.1\Neil.Container.pdb
+G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.AssemblyInfoInputs.cache
+G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.AssemblyInfo.cs
+G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.csproj.CoreCompileInputs.cache
+G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.dll
+G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.pdb

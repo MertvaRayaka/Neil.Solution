@@ -1,0 +1,16 @@
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.IDAL.deps.json
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.IDAL.dll
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.IDAL.pdb
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.Container.dll
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.IService.dll
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.Model.dll
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.IService.pdb
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.Model.pdb
+G:\Neil.Solution\Neil.IDAL\bin\Debug\netcoreapp3.1\Neil.Container.pdb
+G:\Neil.Solution\Neil.IDAL\obj\Debug\netcoreapp3.1\Neil.IDAL.csprojAssemblyReference.cache
+G:\Neil.Solution\Neil.IDAL\obj\Debug\netcoreapp3.1\Neil.IDAL.AssemblyInfoInputs.cache
+G:\Neil.Solution\Neil.IDAL\obj\Debug\netcoreapp3.1\Neil.IDAL.AssemblyInfo.cs
+G:\Neil.Solution\Neil.IDAL\obj\Debug\netcoreapp3.1\Neil.IDAL.csproj.CoreCompileInputs.cache
+G:\Neil.Solution\Neil.IDAL\obj\Debug\netcoreapp3.1\Neil.IDAL.csproj.CopyComplete
+G:\Neil.Solution\Neil.IDAL\obj\Debug\netcoreapp3.1\Neil.IDAL.dll
+G:\Neil.Solution\Neil.IDAL\obj\Debug\netcoreapp3.1\Neil.IDAL.pdb
