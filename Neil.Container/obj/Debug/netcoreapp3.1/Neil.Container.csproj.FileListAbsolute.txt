@@ -6,3 +6,4 @@ G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.AssemblyI
 G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.csproj.CoreCompileInputs.cache
 G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.dll
 G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.pdb
+G:\Neil.Solution\Neil.Container\obj\Debug\netcoreapp3.1\Neil.Container.csprojAssemblyReference.cache

@@ -8,3 +8,4 @@ G:\Neil.Solution\BuilderPattern\bin\Debug\appsettings.json
 G:\Neil.Solution\BuilderPattern\bin\Debug\Newtonsoft.Json.dll
 G:\Neil.Solution\BuilderPattern\bin\Debug\Newtonsoft.Json.xml
 G:\Neil.Solution\BuilderPattern\obj\Debug\BuilderPattern.csproj.CopyComplete
+G:\Neil.Solution\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache

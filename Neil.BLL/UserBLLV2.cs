@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Neil.BLL
 {
-    public class UserBLLV2 : IUserBLL
+    public class UserBLLV2 : IFuncManager, IUserBLL
     {
         public UserModel Login(int Id)
         {
@@ -16,10 +16,11 @@ namespace Neil.BLL
 
         public async Task Running()
         {
-            for (int i = 1; i < 5; i++)
+            for (int i = 1; i <= 5; i++)
             {
+                if (!IFuncManager.TaskFlag) break;
                 await Task.Delay(1000);
-                Console.WriteLine(i+1);
+                IFuncManager.TransAction(0,i.ToString());
             }
         }
     }

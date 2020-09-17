@@ -3,12 +3,12 @@ using Neil.IBLL;
 using Neil.IDAL;
 using Neil.IService;
 using Neil.Model;
-using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Neil.BLL
 {
-    public class UserBLL : IUserBLL
+    public class UserBLL :IFuncManager, IUserBLL
     {
         IUserDAL _userDAL;
 
@@ -17,13 +17,14 @@ namespace Neil.BLL
 
         public IServiceC ServiceC { get; set; }
 
-        [NeilFlagCtor]
+        
         public UserBLL(IServiceA serviceA, IServiceB serviceB)
         {
             _serviceA = serviceA;
             _serviceB = serviceB;
         }
 
+        [NeilFlagCtor]
         public UserBLL(IUserDAL userDAL)
         {
             _userDAL = userDAL;
@@ -38,10 +39,11 @@ namespace Neil.BLL
 
         public async Task Running()
         {
-            for (int i = 1111; i < 1115; i++)
+            for (int i = 111; i <= 115; i++)
             {
+                if (!IFuncManager.TaskFlag) break;
                 await Task.Delay(1000);
-                Console.WriteLine(i);
+                IFuncManager.TransAction(0,i.ToString());
             }
         }
     }

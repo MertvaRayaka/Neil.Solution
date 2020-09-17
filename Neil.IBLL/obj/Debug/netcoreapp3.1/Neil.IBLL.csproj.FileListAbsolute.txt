@@ -9,10 +9,10 @@ G:\Neil.Solution\Neil.IBLL\bin\Debug\netcoreapp3.1\Neil.IDAL.pdb
 G:\Neil.Solution\Neil.IBLL\bin\Debug\netcoreapp3.1\Neil.Container.pdb
 G:\Neil.Solution\Neil.IBLL\bin\Debug\netcoreapp3.1\Neil.IService.pdb
 G:\Neil.Solution\Neil.IBLL\bin\Debug\netcoreapp3.1\Neil.Model.pdb
-G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.csprojAssemblyReference.cache
 G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.AssemblyInfoInputs.cache
 G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.AssemblyInfo.cs
 G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.csproj.CoreCompileInputs.cache
 G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.csproj.CopyComplete
 G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.dll
 G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.pdb
+G:\Neil.Solution\Neil.IBLL\obj\Debug\netcoreapp3.1\Neil.IBLL.csprojAssemblyReference.cache

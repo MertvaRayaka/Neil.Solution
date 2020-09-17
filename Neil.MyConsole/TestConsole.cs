@@ -30,35 +30,7 @@ namespace Neil.MyConsole
             IUserBLL userBLL = container.CreateObject<IUserBLL>();
             IUserBLL userBLLV2 = new UserBLLV2();
 
-            AddFunc(userBLL.Running);
-            AddFunc(userBLLV2.Running);
-
-            Task.Run(async () =>
-            {
-                while (FuncList.Count > 0)
-                {
-                    foreach (var func in FuncList)
-                    {
-                        await func();
-                    }
-                }
-            });
-
-            RemoveFunc(userBLLV2.Running);
-
             Console.ReadLine();
-        }
-
-        public static void AddFunc(Func<Task> action)
-        {
-            lock (action)
-                FuncList.Add(action);
-        }
-
-        public static void RemoveFunc(Func<Task> action)
-        {
-            lock (action)
-                FuncList.Remove(action);
         }
     }
 }

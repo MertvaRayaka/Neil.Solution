@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Neil.BLL\Neil.BLL.csproj" />
+    <ProjectReference Include="..\Neil.DAL\Neil.DAL.csproj" />
+    <ProjectReference Include="..\Neil.IBLL\Neil.IBLL.csproj" />
+    <ProjectReference Include="..\Neil.IDAL\Neil.IDAL.csproj" />
+    <ProjectReference Include="..\Neil.Service\Neil.Service.csproj" />
+  </ItemGroup>
+
+</Project>

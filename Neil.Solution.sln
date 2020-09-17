@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neil.IService", "Neil.IServ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neil.Service", "Neil.Service\Neil.Service.csproj", "{FA2A20F6-6A7D-43B7-BFC9-BAE4E4B0C51C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neil.Container", "Neil.Container\Neil.Container.csproj", "{66DFC01E-8B4F-44A3-B484-4848C736280E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neil.Container", "Neil.Container\Neil.Container.csproj", "{66DFC01E-8B4F-44A3-B484-4848C736280E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neil.MyWinForm", "Neil.MyWinForm\Neil.MyWinForm.csproj", "{BA301964-3252-4CFD-93A6-AACD9A907E6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{66DFC01E-8B4F-44A3-B484-4848C736280E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66DFC01E-8B4F-44A3-B484-4848C736280E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66DFC01E-8B4F-44A3-B484-4848C736280E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA301964-3252-4CFD-93A6-AACD9A907E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA301964-3252-4CFD-93A6-AACD9A907E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA301964-3252-4CFD-93A6-AACD9A907E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA301964-3252-4CFD-93A6-AACD9A907E6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +114,7 @@ Global
 		{41A80183-6CD2-4DD4-BF49-CB0CBE50444C} = {65EFEC89-9D51-440C-99A0-456A5DC1D89E}
 		{FA2A20F6-6A7D-43B7-BFC9-BAE4E4B0C51C} = {65EFEC89-9D51-440C-99A0-456A5DC1D89E}
 		{66DFC01E-8B4F-44A3-B484-4848C736280E} = {4A9F8C44-CA8E-4EEA-ADD1-18160CF38598}
+		{BA301964-3252-4CFD-93A6-AACD9A907E6D} = {F7E54848-0DA6-417C-B48C-C46D5AB2919F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21A9B482-937D-48CE-9BDC-7DD4466776D7}
