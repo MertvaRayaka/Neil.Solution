@@ -1,0 +1,16 @@
+G:\Neil.Solution\Neil.MyWPF\bin\Debug\Neil.MyWPF.exe.config
+G:\Neil.Solution\Neil.MyWPF\bin\Debug\Neil.MyWPF.exe
+G:\Neil.Solution\Neil.MyWPF\bin\Debug\Neil.MyWPF.pdb
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\App.g.cs
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF_MarkupCompile.cache
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF_MarkupCompile.lref
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF.g.resources
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF.Properties.Resources.resources
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF.csproj.GenerateResource.cache
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF.csproj.CoreCompileInputs.cache
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF.exe
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF.pdb
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Forms\Main\Views\MainWindow.g.cs
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Forms\Main\Views\MainWindow.baml
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Neil.Solution\Neil.MyWPF\obj\Debug\Neil.MyWPF.csprojAssemblyReference.cache

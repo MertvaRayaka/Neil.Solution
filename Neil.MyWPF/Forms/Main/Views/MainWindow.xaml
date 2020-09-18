@@ -1,0 +1,23 @@
+﻿<Window x:Class="Neil.MyWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"        
+        xmlns:custns="clr-namespace:Neil.MyWPF"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="234" Width="301">
+
+    <Window.Resources>
+        <custns:MainWindowViewModel
+            x:Key="MainWindowViewObj"
+            TxtCustomerName="Neil"/>
+    </Window.Resources>
+    <Grid>
+        <Label Name="lblName" Content="{Binding TxtCustomerName, Mode=OneWay, Source={StaticResource MainWindowViewObj}}" HorizontalAlignment="Left" Margin="132,23,0,0" VerticalAlignment="Top" Height="23" Width="40"/>
+        <Button Name="btnCaculateTex" Content="计算税金" HorizontalAlignment="Left" Height="31" Margin="121,149,0,0" VerticalAlignment="Top" Width="71" RenderTransformOrigin="0.296,0.194" Command="{Binding btnClick, Mode=OneWay, Source={StaticResource MainWindowViewObj}}"/>
+        <TextBox Name="txtAmount" Text="{Binding TxtAmount, Source={StaticResource  MainWindowViewObj},Mode=TwoWay}"  HorizontalAlignment="Left" Height="27" Margin="121,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="lblTex" Content="{Binding TxtTax, Mode=OneWay, Source={StaticResource MainWindowViewObj}}" HorizontalAlignment="Left" Margin="132,104,0,0" VerticalAlignment="Top" Height="23" Width="40"/>
+    </Grid>
+
+</Window>

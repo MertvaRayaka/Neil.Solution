@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neil.Service", "Neil.Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neil.Container", "Neil.Container\Neil.Container.csproj", "{66DFC01E-8B4F-44A3-B484-4848C736280E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neil.MyWinForm", "Neil.MyWinForm\Neil.MyWinForm.csproj", "{BA301964-3252-4CFD-93A6-AACD9A907E6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neil.MyWinForm", "Neil.MyWinForm\Neil.MyWinForm.csproj", "{BA301964-3252-4CFD-93A6-AACD9A907E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neil.MyWPF", "Neil.MyWPF\Neil.MyWPF.csproj", "{703E4E39-860C-4922-ACBB-F5BB110047CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +99,10 @@ Global
 		{BA301964-3252-4CFD-93A6-AACD9A907E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA301964-3252-4CFD-93A6-AACD9A907E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA301964-3252-4CFD-93A6-AACD9A907E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703E4E39-860C-4922-ACBB-F5BB110047CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E4E39-860C-4922-ACBB-F5BB110047CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703E4E39-860C-4922-ACBB-F5BB110047CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703E4E39-860C-4922-ACBB-F5BB110047CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -115,6 +121,7 @@ Global
 		{FA2A20F6-6A7D-43B7-BFC9-BAE4E4B0C51C} = {65EFEC89-9D51-440C-99A0-456A5DC1D89E}
 		{66DFC01E-8B4F-44A3-B484-4848C736280E} = {4A9F8C44-CA8E-4EEA-ADD1-18160CF38598}
 		{BA301964-3252-4CFD-93A6-AACD9A907E6D} = {F7E54848-0DA6-417C-B48C-C46D5AB2919F}
+		{703E4E39-860C-4922-ACBB-F5BB110047CA} = {F7E54848-0DA6-417C-B48C-C46D5AB2919F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21A9B482-937D-48CE-9BDC-7DD4466776D7}
