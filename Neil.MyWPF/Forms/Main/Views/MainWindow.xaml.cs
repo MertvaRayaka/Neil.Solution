@@ -24,6 +24,14 @@ namespace Neil.MyWPF
         public MainWindow()
         {
             InitializeComponent();
+            Task.Run(async delegate
+            {
+                while (true)
+                {
+                    await Task.Delay(500);
+                    Dispatcher.Invoke(delegate { lblTime.Content = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"); });
+                }
+            });
         }
     }
 }

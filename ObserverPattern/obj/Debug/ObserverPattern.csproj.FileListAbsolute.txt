@@ -1,0 +1,6 @@
+G:\Neil.Solution\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+G:\Neil.Solution\ObserverPattern\bin\Debug\ObserverPattern.exe
+G:\Neil.Solution\ObserverPattern\bin\Debug\ObserverPattern.pdb
+G:\Neil.Solution\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+G:\Neil.Solution\ObserverPattern\obj\Debug\ObserverPattern.exe
+G:\Neil.Solution\ObserverPattern\obj\Debug\ObserverPattern.pdb
